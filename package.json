@@ -9,10 +9,6 @@
   "bin": {
     "myproject-cli": "./index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/miccuci/vueBasic.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",

@@ -1,4 +1,4 @@
-#! node   //这里很重要，标记为node运行环境！
+#! node
 
 console.log('test')
 
