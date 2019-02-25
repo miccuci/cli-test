@@ -24,9 +24,7 @@ program
   .on('--help', () => {
     logger.log('Example:')
     logger.log('  创建一个默认的项目')
-    logger.log('     $ efox create  或者 $ efox c')
-    logger.log('  创建指定平台(web/mobile/ie8)、指定开发框架(vue/react/jQuery/angular)、指定项目名的项目')
-    logger.log('     $ efox create testname -p web -f react \n')
+    logger.log('     $ myproject-cli create  或者 $ myproject-cli c')
   })
 
 program.parse(process.argv)
